@@ -1,6 +1,6 @@
 # Go Kafka Example
 
-this is a basic go kafaka crud designed using sarama package from IBM, which is most stable version abalible on internet...
+this is a basic go kafaka crud designed using sarama package from IBM, which is most stable version available on internet...
 
 <h2> docker-compose steps </h2>
 
